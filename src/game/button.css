@@ -1,0 +1,11 @@
+.my-special-button {
+    -fx-pref-height: 50px;
+    -fx-pref-width: 120px;
+}
+
+#fancytext {
+    -fx-font: 100px Tahoma;
+    -fx-fill: linear-gradient(from 0% 0% to 100% 200%, repeat, aqua 0%, red 50%);
+    -fx-stroke: rgba(250, 238, 202, 0.776);
+    -fx-stroke-width: 1;
+}
